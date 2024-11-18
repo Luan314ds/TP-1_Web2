@@ -3,3 +3,5 @@
 Integrantes: Acevedo Bossi Luan, Zabala Martin.</p>
 
 ![Diagrama](https://github.com/user-attachments/assets/1f4f54d8-d07f-4387-a4d8-cfd3e841b410)
+
+EN LA RAMA MVC ESTA LA REENTREGA DE LA PARTE 2
